@@ -1,0 +1,59 @@
+#headin{
+    color: rgb(211, 197, 0);
+    font-size: 100px;
+    font-family: cursive;
+    text-decoration: underline ;
+    background-color:rgb(127, 253, 255) ;
+    
+    padding-left: 20px; 
+    width: 700px;
+    position: relative;
+    bottom: 20px; left: 600px; 
+    margin: 70px;
+}
+div{
+    font-size: 30px ;
+    
+    padding: 5px ;
+    margin: 20px;
+  
+}
+#image{
+    
+    max-width: 100%;
+    height: 500px;
+    border-radius: 4px;
+    margin: 5px;
+  
+    padding: 20px;
+    background-clip: content-box ;
+    box-shadow: inset 0 0 0 20px lightcoral;
+}
+#her{
+    background-color: #fffb7f;
+    background-clip: content-box;
+}
+*{
+    background-color: rgb(127, 253, 255);
+}
+#h2{
+    color: rgb(211, 197, 0) ;
+    font-size: 80px;
+}
+#sore{
+    
+    text-decoration:underline;
+    
+}
+p{
+    font-size: 30px; 
+}
+li{
+    font-size: 30px;
+}
+b{
+    background-color: rgb(211, 197, 0);
+}
+
+
+
